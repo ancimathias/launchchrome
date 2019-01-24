@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143" started-at="2019-01-09T14:56:36Z" finished-at="2019-01-09T14:56:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143" started-at="2019-01-09T14:56:36Z" finished-at="2019-01-09T14:56:36Z">
+      <class name="com.abc.testng.DemoGroup4">
+        <test-method status="PASS" signature="b_method()[pri:0, instance:com.abc.testng.DemoGroup4@4de8b406]" name="b_method" duration-ms="30" started-at="2019-01-09T14:56:36Z" finished-at="2019-01-09T14:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+        <test-method status="PASS" signature="c_method()[pri:0, instance:com.abc.testng.DemoGroup4@4de8b406]" name="c_method" duration-ms="8" started-at="2019-01-09T14:56:36Z" finished-at="2019-01-09T14:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_method -->
+        <test-method status="PASS" signature="d_method()[pri:0, instance:com.abc.testng.DemoGroup4@4de8b406]" name="d_method" duration-ms="9" started-at="2019-01-09T14:56:36Z" finished-at="2019-01-09T14:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_method -->
+        <test-method status="PASS" signature="a_method()[pri:19, instance:com.abc.testng.DemoGroup4@4de8b406]" name="a_method" duration-ms="4" started-at="2019-01-09T14:56:36Z" finished-at="2019-01-09T14:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_method -->
+      </class> <!-- com.abc.testng.DemoGroup4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
